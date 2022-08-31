@@ -95,4 +95,3 @@ El funcionamiento del Flow consiste en enciender y apagar el LED Flash del ESP32
 Desarrollado por José Ernesto Calvillo Lizárraga
 - [GitHub](https://github.com/JoErnesto)
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ernesto-calvillo-liz%C3%A1rraga-4188a4231/)
-- 
